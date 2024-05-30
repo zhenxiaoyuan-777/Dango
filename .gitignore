@@ -1,0 +1,6 @@
+.vs
+
+# Intermediate directory
+bin-int
+# Output directory
+bin
